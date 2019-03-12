@@ -39,9 +39,9 @@
                         </MediaFiles>
 <Icons>
     <Icon program="AdChoices" height="20" width="122" xPosition="right" yPosition="top">
-        <IFrameResource>
+        <StaticResource>
             <![CDATA[//staging.betrad.com/vast-iframe.html?;coid=273;nid=110794;position=top-right]]>
-        </IFrameResource>
+        </StaticResource>
     </Icon>
 </Icons>
                     </Linear>
