@@ -38,8 +38,11 @@
                             </MediaFile>
                         </MediaFiles>
 <Icons>
-    <Icon program="AdChoices" height="20" width="122" xPosition="right" yPosition="top">
-        <StaticResource creativeType="image/png"><![CDATA[https://secure-ds.serving-sys.com/BurstingCachedScripts/Res/Images_2_6_4_0//AdChoice/TopRight/OBA_DEFAULT.png]]></StaticResource>
+    <Icon program="AdChoices" height="20" width="76" xPosition="right" yPosition="top">
+        <StaticResource creativeType="image/png">
+        <![CDATA[
+        https://secure-ds.serving-sys.com/BurstingCachedScripts/Res/Images_2_6_4_0//AdChoice/TopRight/OBA_DEFAULT.png
+        ]]></StaticResource>
     </Icon>
 </Icons>
                     </Linear>
